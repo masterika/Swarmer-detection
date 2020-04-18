@@ -1,2 +1,11 @@
 # Swarmer-detection
-Using Mask-rcnn to detect swarming bacteria in phase contrast microscopy images
+Using Mask-rcnn (citation below) to detect swarming bacteria in phase contrast microscopy images.
+
+@misc{matterport_maskrcnn_2017,
+  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
+  author={Waleed Abdulla},
+  year={2017},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
+}
