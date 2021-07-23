@@ -6,7 +6,7 @@ One can look at density, size, velocity and ect. variations of cells to understa
 
 Here I use mask-rcnn (citation below) to detect swarming bacteria in phase contrast microscopy images. You can view and reproduce results in "Swarming_bacteria_detection_with_Mask_R_CNN.ipynb" file. You can also easily train your own dataset using that code. Below, on the left I display a typical picture from the test set, and on the right you can see how well the program detects bacteria.
 
-![original phase contrast](https://user-images.githubusercontent.com/7634351/126841047-f8de5ab2-0789-45d2-9f02-3f9f96ce9d95.jpg)
+![original](https://user-images.githubusercontent.com/7634351/126841434-0a7cd053-1b84-4f00-a5cf-cbf3bb2c1ea3.png)
 ![processed](https://user-images.githubusercontent.com/7634351/126838879-2049be68-38af-4298-99a7-442165f83e3c.png)
 
 @misc{matterport_maskrcnn_2017,
